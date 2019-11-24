@@ -1,0 +1,2 @@
+# opensource_codenote-lajidui
+本项目以浏览器插件的形式实现了一个Github开源代码笔记系统, 让所有人可以在阅读代码的同时记录笔记或参考别人的笔记
